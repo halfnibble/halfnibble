@@ -1,7 +1,7 @@
 baseURL = "https://halfnibble.com/"
 languageCode = "en-us"
 title = "halfnibble"
-theme = "hugo.386"
+theme = "hugo.386plus"
 
 [params]
     # The name to display as main title in the home page
@@ -43,6 +43,8 @@ theme = "hugo.386"
 
     # Enables or disables the second flyby cursor. Default is false.
     loadonepass = true
+
+    customCSS = "custom.css"
 
 
 [menu]
