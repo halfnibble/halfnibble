@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on halfnibble</title>
+    <link>https://halfnibble.com/post/</link>
+    <description>Recent content in Posts on halfnibble</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2020 20:01:25 -0700</lastBuildDate>
+    
+	<atom:link href="https://halfnibble.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://halfnibble.com/post/hello-world/</link>
+      <pubDate>Thu, 02 Apr 2020 20:01:25 -0700</pubDate>
+      
+      <guid>https://halfnibble.com/post/hello-world/</guid>
+      <description>Hello.
+Just trying to see how well this works.
+Oh look, this theme supports code highlights too!
+const msg: string = &amp;#39;Howdy world!&amp;#39;; console.log(msg); That&amp;rsquo;s pretty awesome, actually. Let&amp;rsquo;s try something newer.
+for _ in 0..&amp;lt;10 { print(&amp;#34;I love coding!&amp;#34;) } Ok. That&amp;rsquo;s super cool.</description>
+    </item>
+    
+  </channel>
+</rss>
