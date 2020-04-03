@@ -1,0 +1,85 @@
+baseURL = "https://halfnibble.com/"
+languageCode = "en-us"
+title = "halfnibble"
+theme = "hugo.386"
+
+[params]
+    # The name to display as main title in the home page
+    mainpagetitle = "halfnibble's website"
+
+    # The subtitle to display under the title in the home page
+    mainpagesubtitle = "My \"two bits\" on programming." 
+
+    # The name to display as main title in the home page
+    mainpagedesc = """
+    Welcome!
+
+    If you can't tell, I'm a huge retro tech fan. I like collecting personal 
+    computers that are older than me. Why? Who knows!!
+
+    I'm also a software engineer and generally curious about the latest tech
+    and programming languages.
+    """
+
+    # The name to display in the copyright section in the footer
+    copyrightname = "Joshua Wedekind"
+
+    # The url to use as link in the copyright name in the footer. Leave empty to use none.
+    # copyrighturl = "http://jmf-portfolio.netlify.com"
+
+    # Show the "built on Hugo" disclaimer
+    showhugo = true
+
+    # Urls for social networks
+    twitter = "https://twitter.com/halfnibble"
+    linkedin = "https://www.linkedin.com/in/halfnibble/"
+    github = "https://github.com/halfnibble"
+
+    # Enables or disables the loading animations. false activates them. Default is false.
+    loadfastload = false
+
+    # Sets the speed for the page loading effect. Default is 1.0.
+    loadspeedfactor = 4.56
+
+    # Enables or disables the second flyby cursor. Default is false.
+    loadonepass = true
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog Posts"
+    url = "/post/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "software"
+    name = "Software"
+    url = "/software/"
+    weight = 20
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.twitter]
+    disableInlineCSS = true
