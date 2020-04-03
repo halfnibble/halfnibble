@@ -20,7 +20,7 @@
       <description>Hello.
 Just trying to see how well this works.
 Oh look, this theme supports code highlights too!
-const msg: string = &amp;#39;Howdy world!&amp;#39;; console.log(msg); That&amp;rsquo;s pretty awesome, actually. Let&amp;rsquo;s try something newer.
+const msg: string = &amp;#34;Howdy world!&amp;#34;; console.log(msg); That&amp;rsquo;s pretty awesome, actually. Let&amp;rsquo;s try something newer.
 for _ in 0..&amp;lt;10 { print(&amp;#34;I love coding!&amp;#34;) } Ok. That&amp;rsquo;s super cool.</description>
     </item>
     

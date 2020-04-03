@@ -10,20 +10,16 @@ Just trying to see how well this works.
 Oh look, this theme supports code highlights too!
 
 ```typescript
-
-  const msg: string = 'Howdy world!';
-  console.log(msg);
-
+const msg: string = "Howdy world!";
+console.log(msg);
 ```
 
 That's pretty awesome, actually. Let's try something newer.
 
 ```swift
-
-  for _ in 0..<10 {
-      print("I love coding!")
-  }
-
+for _ in 0..<10 {
+    print("I love coding!")
+}
 ```
 
 Ok. That's super cool.
