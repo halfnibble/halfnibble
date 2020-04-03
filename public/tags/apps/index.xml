@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apps on halfnibble</title>
+    <link>https://halfnibble.com/tags/apps/</link>
+    <description>Recent content in apps on halfnibble</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://halfnibble.com/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software</title>
+      <link>https://halfnibble.com/software/</link>
+      <pubDate>Thu, 02 Apr 2020 20:19:00 -0700</pubDate>
+      
+      <guid>https://halfnibble.com/software/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
