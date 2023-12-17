@@ -31,7 +31,7 @@ theme = "hugo.386plus"
     showhugo = true
 
     # Urls for social networks
-    twitter = "https://twitter.com/halfnibble"
+    # twitter = "https://twitter.com/halfnibble"
     linkedin = "https://www.linkedin.com/in/halfnibble/"
     github = "https://github.com/halfnibble"
 
