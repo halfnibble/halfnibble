@@ -6,18 +6,13 @@
     <description>Recent content in apps on halfnibble</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://halfnibble.com/tags/apps/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://halfnibble.com/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software</title>
       <link>https://halfnibble.com/software/</link>
-      <pubDate>Thu, 02 Apr 2020 20:19:00 -0700</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://halfnibble.com/software/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
